@@ -19,7 +19,4 @@
 - Matplotlib  
 - Seaborn
 
-Dataset:
-python gui_app.py
-
 📁 Dataset: [Download from Google Drive](https://drive.google.com/file/d/1AOQBqTkApMejpqKckHLyMpdB8uFFvS5l/view?usp=sharing)
